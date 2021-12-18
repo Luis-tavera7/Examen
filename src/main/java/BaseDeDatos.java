@@ -8,5 +8,14 @@
  * @author Luis Carlos Tavera G
  */
 public class BaseDeDatos {
+
+    public BaseDeDatos() {
+        System.out.println("iniciando la clase base de datos");
+        
+        
+
+    }
+    
+    
     
 }

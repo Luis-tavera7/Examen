@@ -13,7 +13,13 @@ public class Practica {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("iniciando mi proyecto");
         
+        BaseDeDatos basededatos = new  BaseDeDatos();
+        
+        System.out.println("mensaje 20");
+        System.out.println("mensaje 30");
+                
     }
     
 }
