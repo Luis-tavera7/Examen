@@ -19,6 +19,8 @@ public class Practica {
         
         System.out.println("mensaje 20");
         System.out.println("mensaje 30");
+        
+        repositorio repositorio = new repositorio();
                 
     }
     
